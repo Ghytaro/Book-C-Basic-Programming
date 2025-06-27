@@ -21,5 +21,8 @@
     <ClCompile Include="2. Nums1To20.cpp">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>
+    <ClCompile Include="3. TriangleOf55Stars.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

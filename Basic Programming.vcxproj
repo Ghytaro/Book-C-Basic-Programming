@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="1. Expression.cpp" />
     <ClCompile Include="2. Nums1To20.cpp" />
+    <ClCompile Include="3. TriangleOf55Stars.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
